@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Asset Management System",
+    "description": "A React-based system designed to streamline the management process for assets, including user authentication and authorization, asset tracking, and reporting.Also a user could add, update and delete assets",
+    "tech": ["React", "Ruby On Rails", "Tailwind CSS", "JSON", "JavaScript"],
+    "github": "https://github.com/ruthwangare/AssetFlow",
+    "live": null
+  },
+  {
+    "title": "Food Delivery App",
+    "description": "A food delivery app  developed using react fro the frontend and ruby on rails for the backend.Implemented user authentication , product listings, shopping cart and checkout functionality",
+    "tech": ["React","Javascript" ,"Ruby On Rails","Tailwind CSS" ],
+    "github": "https://github.com/ruthwangare/food-delivery-app",
+    "live": null
+  }
+]
